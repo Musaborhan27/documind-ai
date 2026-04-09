@@ -296,11 +296,3 @@ You can add a custom license here if you plan to distribute it publicly.
 ## Author
 
 Built by **Musab Orhan** as an AI-powered full-stack portfolio project.
-
-```
-
-If you want, I can also give you a sharper **“recruiter-grade” README version** that sounds more impressive for GitHub visitors and hiring managers.
-::contentReference[oaicite:1]{index=1}
-```
-
-[1]: https://github.com/Musaborhan27/documind-ai/tree/main "GitHub - Musaborhan27/documind-ai · GitHub"
