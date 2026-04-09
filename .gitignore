@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Local databases / uploads
+*.db
+*.sqlite
+*.sqlite3
+uploads/
+
+# Logs / temp
+*.log
+tmp/
+temp/
+
+# macOS / OS junk
+.DS_Store
+__MACOSX/
+
+# Frontend
+documind-frontend/node_modules/
+documind-frontend/.next/
+documind-frontend/out/
+documind-frontend/.vercel/
+
+# IDE
+.vscode/
+.idea/
